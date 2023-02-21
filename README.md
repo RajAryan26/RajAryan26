@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaryan26&label=Profile%20views&color=0e75b6&style=flat" alt="rajaryan26" /> </p>
 
-- 🌱 I’m currently learning **Web Developement**
+- 🌱 I’m currently learning **Web Developement** and **Software Engineering**
 
 - 📫 How to reach me **aryanraj00019@gmail.com**
 
